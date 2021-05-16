@@ -1,0 +1,12 @@
+name: DoNotDisturb
+version: ${project.version}
+main: org.simondoesstuff.plugindonotdisturb.PluginDoNotDisturb
+api-version: 1.16
+depend: [ProtocolLib]
+author: simondoesstuff
+commands:
+  dnd:
+    description: "The root command for all DND commands."
+    usage: "/dnd help"
+    aliases:
+      - donotdisturb
