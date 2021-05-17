@@ -1,5 +1,6 @@
 name: DoNotDisturb
 version: ${project.version}
+description: "Stop people from annoying you."
 main: org.simondoesstuff.plugindonotdisturb.PluginDoNotDisturb
 api-version: 1.16
 depend: [ProtocolLib]
